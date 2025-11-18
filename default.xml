@@ -434,6 +434,7 @@
   <project path="external/pciutils" name="platform/external/pciutils" groups="pdk"/>
   <project path="external/pcre" name="platform/external/pcre" groups="pdk"/>
   <project path="external/pdfium" name="platform/external/pdfium" groups="pdk"/>
+  <project path="external/starlark-go" name="platform/external/starlark-go" groups="pdk"/>
   <project path="prebuilts/abi-dumps/ndk" name="platform/prebuilts/abi-dumps/ndk" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project path="prebuilts/abi-dumps/platform" name="platform/prebuilts/abi-dumps/platform" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
   <project path="prebuilts/abi-dumps/vndk" name="platform/prebuilts/abi-dumps/vndk" groups="pdk-cw-fs,pdk-fs" clone-depth="1"/>
