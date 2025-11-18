@@ -60,6 +60,7 @@
   <project path="device/google/tangorpro-kernels/6.1" name="device_google_tangorpro-kernels_6.1" remote="grapheneos" clone-depth="1"/>
   <project path="device/google/tegu-kernels/6.1" name="device_google_tegu-kernels_6.1" remote="grapheneos" clone-depth="1"/>
   <project path="device/google/bluejay" name="device_google_bluejay" remote="grapheneos" revision="refs/heads/16"/>
+  <project path="hardware/google/pixel" name="hardware_google_pixel" remote="grapheneos" aosp-name="hardware/google/pixel"/>
   <project path="device/linaro/dragonboard" name="device/linaro/dragonboard" groups="device,dragonboard,pdk"/>
   <project path="device/linaro/dragonboard-kernel" name="device/linaro/dragonboard-kernel" groups="device,dragonboard,pdk" clone-depth="1"/>
   <project path="device/linaro/hikey" name="device/linaro/hikey" groups="device,hikey,pdk"/>
